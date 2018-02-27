@@ -1,0 +1,39 @@
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+# documentation links
+nav_sidebar:
+  - title: "Fasteners"
+    children:
+      - title: "Fastener Overview"
+        url: "/fasteners/overview"
+      - title: "Bolts"
+        url: "/fasteners/bolts"
+  - title: "Materials"
+    children:
+      - title: "Material Overview"
+        url: "/materials/overview"
+      - title: "Composites"
+        url: "/materials/composites"
+  - title: "Motion"
+    children:
+      - title: "Motion Overview"
+        url: "/motion/overview"
+      - title: "Bearings and Bushings"
+        url: "/motion/bearings"
+  - title: "Misc"
+    children:
+      - title: "About"
+        url: "/misc/about"
+      - title: "Contributing"
+        url: "/misc/contributing"
