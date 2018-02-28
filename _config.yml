@@ -45,7 +45,7 @@ algolia:
   powered_by             : # true (default), false
 
 # SEO Related
-google_site_verification :
+google_site_verification : "G7D0K-2g8HqbKS7YCpzW5WkZ30X8sNKQdCB4MLgFG5M"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
