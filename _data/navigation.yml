@@ -21,6 +21,8 @@ mechanical_sidebar:
         url: "/fasteners/bolts"
       - title: "Rivets"
         url: "/fasteners/rivets"
+      - title: "Specialized Fasteners"
+        url: "/fasteners/specialized"
   - title: "Materials"
     children:
       - title: "Material Overview"

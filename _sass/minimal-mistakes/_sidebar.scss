@@ -29,13 +29,14 @@
       opacity: 1;
     }
 
-    &.sticky {
-      overflow-y: auto;
-      /* calculate height of nav list */
-      height: calc(
-        100vh - 90px - 2em
-      ); // viewport height - approx. masthead height - main content top margin
-    }
+    // This has been removed to make the sidebar take up the full space instead of scrolling.
+    // &.sticky {
+    //   overflow-y: auto;
+    //   /* calculate height of nav list */
+    //   height: calc(
+    //     100vh - 90px - 2em
+    //   ); // viewport height - approx. masthead height - main content top margin
+    // }
   }
 
   @include breakpoint($x-large) {
@@ -294,4 +295,3 @@
     margin-right: initial;
   }
 }
-
