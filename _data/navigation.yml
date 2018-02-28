@@ -11,8 +11,20 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-# documentation links
-nav_sidebar:
+main_sidebar:
+  - title: "Site Guide"
+    children:
+      - title: "Mechanical Section"
+        url: "/mechanical"
+      - title: "Controls Section"
+        url: "/controls"
+      - title: "Business Section"
+        url: "/business"
+      - title: "Outreach Section"
+        url: "/outreach"
+
+# Mechanical subsection
+mechanical_sidebar:
   - title: "Fasteners"
     children:
       - title: "Fastener Overview"
@@ -31,6 +43,27 @@ nav_sidebar:
         url: "/motion/overview"
       - title: "Bearings and Bushings"
         url: "/motion/bearings"
+  - title: "Misc"
+    children:
+      - title: "About"
+        url: "/misc/about"
+      - title: "Contributing"
+        url: "/misc/contributing"
+
+# Mechanical subsection
+controls_sidebar:
+  - title: "Programming"
+    children:
+      - title: "Programming Overview"
+        url: "/programming/overview"
+  - title: "Electrical"
+    children:
+      - title: "Electrical Overview"
+        url: "/electrical/overview"
+  - title: "Pneumatics"
+    children:
+      - title: "Pneumatics Overview"
+        url: "/pneumatics/overview"
   - title: "Misc"
     children:
       - title: "About"

@@ -1,6 +1,8 @@
 ---
 title: "Composites"
 permalink: /materials/composites
+sidebar:
+  nav: mechanical_sidebar
 ---
 
 Composites are formed by combining materials with different properties to create a new structure with properties that are unique from the individual components.
