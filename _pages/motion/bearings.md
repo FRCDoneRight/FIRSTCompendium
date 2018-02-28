@@ -7,7 +7,7 @@ sidebar:
 
 Bearings and bushing are designed to constrain relative motion and reduce friction between rotating parts. There are a very wide variety of bearings available; those most commonly used in FRC designs are discussed below.
 
-### Radial Ball Bearings
+## Radial Ball Bearings
 
 Radial ball bearing are the most common type of bearing used in products. Normally, radial bearings are constructed with ball grooves in both the inner and outer races, containing a number of ball bearings. These bearings generally need to be lubricated with grease, however in FRC we normally use sealed bearings, which are pre-lubricated. Radial ball bearing are designed for radial loads, and some smaller axial loads.
 
@@ -23,11 +23,11 @@ Outer Diameter | Inner Diameter | Identifier | VexPro ID | Andymark ID
 1.125"         | 0.500" hexagon | FR8ZZ-HEX  | 217-3875  | am-2986
 1.125"         | 0.500" round   | FR8ZZ      | 217-2731  | am-0030
 
-##### Thunderhex
+### Thunderhex
 
 ThunderHex stock works in all applications where 1/2" or 3/8" shaft will work, and also includes rounded corners. These rounded corners allow the shaft to pilot inside a 13.75 mm round (ThunderHex) Bearing instead of a standard 1/2" Hex Bearing, eliminating some difficult manufacturing tolerances and results in a smoother end result. A similar effect can be achieved with hex stock and a lathe.
 
-##### Seal Types
+### Seal Types
 
 Open bearings dissipate heat more efficiently than shielded and sealed bearings.
 
@@ -35,19 +35,19 @@ Shielded bearings block out dust and other contaminants, but do not dissipate he
 
 Sealed bearings block out dust and other contaminants better than open and shielded bearings, but retain the most heat.
 
-#### Needle Roller Bearings
+## Needle Roller Bearings
 
 A needle roller bearing uses small cylindrical rollers rather than balls. Needle bearings can only be used for round shafts, but offer high radial load capacity in a smaller outside diameter package than with standard roller bearings. The small OD size can be advantageous when space is at a premium, such as supporting an inner shaft on a coaxial swerve drive.
 
-#### Thrust Bearings
+## Thrust Bearings
 
 In locations where an axial load is applied, a thrust bearing is used to reduce friction. Depending on the load, there are thrust bearings with needle or ball bearings. For smaller loads a simple "washer style" type of bearing (similar to a bushing) made with bronze, Oilite, Teflon, or another plastic is sufficient.
 
-#### Tapered Ball & Roller Bearings
+## Tapered Ball & Roller Bearings
 
 Tapered bearings are designed for both axial and radial loads. These bearings are used on automobile wheels, and also used in the old cup and cone style bicycle wheels. The axial preload on the bearing needs to be adjustable. These are not commonly used in robotics due to the high cost and installation complexity of these bearings. For combined axial and radial loads, FRC teams typically instead use a combination of a radial bearing and a thrust bearing.
 
-### Bushings
+## Bushings
 
 Bushing are similar to bearings, but lack any roller elements. They are typically used in lower-speed applications and generally have slightly higher friction. Bushings are widely available in bronze, Oilite, PFTE (Teflon), Nylon, and other plastics.
 

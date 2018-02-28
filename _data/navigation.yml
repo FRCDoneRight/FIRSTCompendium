@@ -4,6 +4,8 @@ main:
     url: "/mechanical"
   - title: "Controls"
     url: "/controls"
+  - title: "Design"
+    url: "/design"
   - title: "Business"
     url: "/business"
   - title: "Outreach"
