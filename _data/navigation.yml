@@ -31,6 +31,12 @@ mechanical_sidebar:
         url: "/motion/overview"
       - title: "Bearings and Bushings"
         url: "/motion/bearings"
+  - title: "Tooling"
+    children:
+      - title: "Tooling Overview"
+        url: "/tooling/overview"
+      - title: "Drill Bits"
+        url: "/tooling/drill_bits"
   - title: "Misc"
     children:
       - title: "About"
