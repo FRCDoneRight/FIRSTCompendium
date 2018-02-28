@@ -13,9 +13,9 @@ title                    : "FIRST Compendium"
 title_separator          : "-"
 name                     : "Benjamin Ward"
 description              : "FIRST Done Right."
-url                      : "https://frcdoneright.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://frcdoneright.github.io" # the base hostname & protocol for your site
 baseurl                  : "/FIRSTCompendium" # the subpath of your site, e.g. "/blog"
-repository               : "WardBenjamin/FIRSTCompendium" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "WardBenjamin/FIRSTCompendium" # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -76,8 +76,8 @@ analytics:
 author:
   name             : "Benjamin Ward"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "FRC and FTC alumni and mentor."
+  location         :
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -87,7 +87,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "FRCDoneRight"
   gitlab           :
   google_plus      :
   keybase          :
@@ -249,4 +249,4 @@ defaults:
       layout: single
       author_profile: false
       sidebar:
-        nav: nav_sidebar
+        nav: main
