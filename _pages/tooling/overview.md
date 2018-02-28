@@ -2,7 +2,7 @@
 title: "Tooling Overview"
 permalink: /tooling/overview
 sidebar:
-  nav: main
+  nav: mechanical_sidebar
 ---
 
 No-op
