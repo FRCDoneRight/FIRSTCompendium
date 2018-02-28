@@ -1,26 +1,14 @@
-# main links
+# Main links to subsections
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-
-main_sidebar:
   - title: "Site Guide"
     children:
-      - title: "Mechanical Section"
+      - title: "Mechanical"
         url: "/mechanical"
-      - title: "Controls Section"
+      - title: "Controls"
         url: "/controls"
-      - title: "Business Section"
+      - title: "Business"
         url: "/business"
-      - title: "Outreach Section"
+      - title: "Outreach"
         url: "/outreach"
 
 # Mechanical subsection
@@ -50,7 +38,7 @@ mechanical_sidebar:
       - title: "Contributing"
         url: "/misc/contributing"
 
-# Mechanical subsection
+# Controls subsection
 controls_sidebar:
   - title: "Programming"
     children:

@@ -2,7 +2,7 @@
 title: "Outreach Section"
 permalink: /outreach
 sidebar:
-  nav: main_sidebar
+  nav: main
 ---
 
 No-op
