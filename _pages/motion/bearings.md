@@ -31,9 +31,9 @@ ThunderHex stock works in all applications where 1/2" or 3/8" shaft will work, a
 
 Open bearings dissipate heat more efficiently than shielded and sealed bearings.
 
-Shielded bearings block out dust and other contaminants, but do not dissipate heat as efficiently as open bearings.
+Shielded bearings block out dust and other contaminants, but do not dissipate heat as efficiently as open bearings. These are the most common in FRC conditions.
 
-Sealed bearings block out dust and other contaminants better than open and shielded bearings, but retain the most heat. These are the most common in FRC conditions.
+Sealed bearings block out dust and other contaminants better than open and shielded bearings, but retain the most heat.
 
 #### Needle Roller Bearings
 
