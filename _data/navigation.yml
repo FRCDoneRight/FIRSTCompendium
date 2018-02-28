@@ -1,15 +1,13 @@
 # Main links to subsections
 main:
-  - title: "Site Guide"
-    children:
-      - title: "Mechanical"
-        url: "/mechanical"
-      - title: "Controls"
-        url: "/controls"
-      - title: "Business"
-        url: "/business"
-      - title: "Outreach"
-        url: "/outreach"
+  - title: "Mechanical"
+    url: "/mechanical"
+  - title: "Controls"
+    url: "/controls"
+  - title: "Business"
+    url: "/business"
+  - title: "Outreach"
+    url: "/outreach"
 
 # Mechanical subsection
 mechanical_sidebar:
