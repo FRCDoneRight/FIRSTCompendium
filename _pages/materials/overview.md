@@ -1,5 +1,5 @@
 ---
-title: "Materials Overview"
+title: "Overview"
 permalink: /materials/overview
 sidebar:
   nav: mechanical_sidebar

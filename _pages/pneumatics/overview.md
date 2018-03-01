@@ -1,5 +1,5 @@
 ---
-title: "Pneumatics Overview"
+title: "Overview"
 permalink: /pneumatics/overview
 sidebar:
   nav: controls_sidebar

@@ -1,5 +1,5 @@
 ---
-title: "Fastener Overview"
+title: "Overview"
 permalink: /fasteners/overview
 sidebar:
   nav: mechanical_sidebar

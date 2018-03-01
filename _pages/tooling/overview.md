@@ -1,5 +1,5 @@
 ---
-title: "Tooling Overview"
+title: "Overview"
 permalink: /tooling/overview
 sidebar:
   nav: mechanical_sidebar

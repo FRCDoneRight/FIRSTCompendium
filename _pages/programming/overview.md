@@ -1,5 +1,5 @@
 ---
-title: "Programming Overview"
+title: "Overview"
 permalink: /programming/overview
 sidebar:
   nav: controls_sidebar
