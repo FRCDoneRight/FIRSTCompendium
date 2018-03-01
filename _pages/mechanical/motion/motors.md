@@ -10,7 +10,7 @@ DC motors are an integral part of competition robotics, and proper motor selecti
 To help select proper motors for mechanisms, a table with specifications of popular motors is below. This table contains mostly experimental data from VEX, which can be found [here](http://motors.vex.com/#testing). VEX Robotics motor curves were developed experimentally using a "down-up" dyno test, an industry-standard measurement system which helps to correct for rotational inertia. This data is more useful for comparison than nominal specifications due to its common method of measurement.
 
 
-|Free Speed (RPM)|Free Current (A)| Maximum Power (W)|Stall Torque (Nm)|Stall Current(A)|Price ($)
+Motor|Free Speed (RPM)|Free Current (A)| Maximum Power (W)|Stall Torque (Nm)|Stall Current(A)|Price ($)
 --------------------|-------|-----|-----|------|-----|-----
 CIM                 | 5330  | 2.7 | 337 | 2.41 | 131 | 27.99
 Vex Mini CIM        | 5840  | 3.0 | 215 | 1.41 | 89  | 24.99
