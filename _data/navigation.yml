@@ -15,7 +15,7 @@ main:
 mechanical_sidebar:
   - title: "Fasteners"
     children:
-      - title: "Fastener Overview"
+      - title: "Overview"
         url: "/fasteners/overview"
       - title: "Bolts"
         url: "/fasteners/bolts"
@@ -25,19 +25,19 @@ mechanical_sidebar:
         url: "/fasteners/specialized"
   - title: "Materials"
     children:
-      - title: "Material Overview"
+      - title: "Overview"
         url: "/materials/overview"
       - title: "Composites"
         url: "/materials/composites"
   - title: "Motion"
     children:
-      - title: "Motion Overview"
+      - title: "Overview"
         url: "/motion/overview"
       - title: "Bearings and Bushings"
         url: "/motion/bearings"
   - title: "Tooling"
     children:
-      - title: "Tooling Overview"
+      - title: "Overview"
         url: "/tooling/overview"
       - title: "Drill Bits"
         url: "/tooling/drill_bits"
@@ -52,15 +52,15 @@ mechanical_sidebar:
 controls_sidebar:
   - title: "Programming"
     children:
-      - title: "Programming Overview"
+      - title: "Overview"
         url: "/programming/overview"
   - title: "Electrical"
     children:
-      - title: "Electrical Overview"
+      - title: "Overview"
         url: "/electrical/overview"
   - title: "Pneumatics"
     children:
-      - title: "Pneumatics Overview"
+      - title: "Overview"
         url: "/pneumatics/overview"
   - title: "Misc"
     children:
