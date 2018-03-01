@@ -21,6 +21,10 @@ misc_sidebar:
 
 # Business subsection
 business_sidebar:
+  - title: "Sponsors"
+    children:
+      - title: "Attracting Sponsors"
+        url: "/sponsors/attracting_sponsors"
   - title: "FRC Done Right"
     children:
       - title: "About"
@@ -38,6 +42,10 @@ controls_sidebar:
     children:
       - title: "Overview"
         url: "/electrical/overview"
+      - title: "Motor Controllers"
+        url: "/electrical/motor_controllers"
+      - title: "Wiring"
+        url: "/electrical/wiring"
   - title: "Pneumatics"
     children:
       - title: "Overview"
@@ -90,6 +98,10 @@ mechanical_sidebar:
         url: "/motion/gears"
       - title: "Gearboxes"
         url: "/motion/gearboxes"
+      - title: "Motors"
+        url: "/motion/motors"
+      - title: "Wheels"
+        url: "/motion/wheels"
   - title: "Tooling"
     children:
       - title: "Overview"
