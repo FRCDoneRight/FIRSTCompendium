@@ -86,6 +86,10 @@ mechanical_sidebar:
         url: "/motion/overview"
       - title: "Bearings and Bushings"
         url: "/motion/bearings"
+      - title: "Gears"
+        url: "/motion/gears"
+      - title: "Gearboxes"
+        url: "/motion/gearboxes"
   - title: "Tooling"
     children:
       - title: "Overview"
@@ -134,6 +138,10 @@ motion_nav:
     children:
       - title: "Bearings and Bushings"
         url: "/motion/bearings"
+      - title: "Gears"
+        url: "/motion/gears"
+      - title: "Gearboxes"
+        url: "/motion/gearboxes"
 
 pneumatics_nav:
   - title: "Further Reading"
