@@ -3,6 +3,7 @@ title: "Pneumatics Overview"
 permalink: /pneumatics/overview
 sidebar:
   nav: controls_sidebar
+directory: pneumatics_nav
 ---
 
-No-op
+{% include nav_list nav=page.directory %}

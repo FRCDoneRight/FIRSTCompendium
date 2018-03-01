@@ -3,6 +3,7 @@ title: "Tooling Overview"
 permalink: /tooling/overview
 sidebar:
   nav: mechanical_sidebar
+directory: tooling_nav
 ---
 
-No-op
+{% include nav_list nav=page.directory %}

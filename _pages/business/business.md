@@ -2,7 +2,7 @@
 title: "Business Section"
 permalink: /business
 sidebar:
-  nav: main
+  nav: business_sidebar
 ---
 
 No-op

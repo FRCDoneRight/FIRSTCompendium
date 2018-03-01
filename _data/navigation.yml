@@ -11,6 +11,57 @@ main:
   - title: "Outreach"
     url: "/outreach"
 
+misc_sidebar:
+  - title: "FRC Done Right"
+    children:
+      - title: "About"
+        url: "/misc/about"
+      - title: "Contributing"
+        url: "/misc/contributing"
+
+# Business subsection
+business_sidebar:
+  - title: "FRC Done Right"
+    children:
+      - title: "About"
+        url: "/misc/about"
+      - title: "Contributing"
+        url: "/misc/contributing"
+
+# Controls subsection
+controls_sidebar:
+  - title: "Programming"
+    children:
+      - title: "Overview"
+        url: "/programming/overview"
+  - title: "Electrical"
+    children:
+      - title: "Overview"
+        url: "/electrical/overview"
+  - title: "Pneumatics"
+    children:
+      - title: "Overview"
+        url: "/pneumatics/overview"
+  - title: "Misc"
+    children:
+      - title: "About"
+        url: "/misc/about"
+      - title: "Contributing"
+        url: "/misc/contributing"
+
+# Design subsection
+design_sidebar:
+  - title: "Mechanisms"
+    children:
+      - title: "Overview"
+        url: "/mechanisms/overview"
+  - title: "FRC Done Right"
+    children:
+      - title: "About"
+        url: "/misc/about"
+      - title: "Contributing"
+        url: "/misc/contributing"
+
 # Mechanical subsection
 mechanical_sidebar:
   - title: "Fasteners"
@@ -41,30 +92,57 @@ mechanical_sidebar:
         url: "/tooling/overview"
       - title: "Drill Bits"
         url: "/tooling/drill_bits"
-  - title: "Misc"
+  - title: "FRC Done Right"
     children:
       - title: "About"
         url: "/misc/about"
       - title: "Contributing"
         url: "/misc/contributing"
 
-# Controls subsection
-controls_sidebar:
-  - title: "Programming"
-    children:
-      - title: "Overview"
-        url: "/programming/overview"
-  - title: "Electrical"
-    children:
-      - title: "Overview"
-        url: "/electrical/overview"
-  - title: "Pneumatics"
-    children:
-      - title: "Overview"
-        url: "/pneumatics/overview"
-  - title: "Misc"
+outreach_sidebar:
+  - title: "FRC Done Right"
     children:
       - title: "About"
         url: "/misc/about"
       - title: "Contributing"
         url: "/misc/contributing"
+
+electrical_nav:
+  - title: "Further Reading"
+
+fasteners_nav:
+  - title: "Further Reading"
+    children:
+      - title: "Bolts"
+        url: "/fasteners/bolts"
+      - title: "Rivets"
+        url: "/fasteners/rivets"
+      - title: "Specialized Fasteners"
+        url: "/fasteners/specialized"
+
+materials_nav:
+  - title: "Further Reading"
+    children:
+      - title: "Composites"
+        url: "/materials/composites"
+
+mechanisms_nav:
+  - title: "Further Reading"
+
+motion_nav:
+  - title: "Further Reading"
+    children:
+      - title: "Bearings and Bushings"
+        url: "/motion/bearings"
+
+pneumatics_nav:
+  - title: "Further Reading"
+
+programming_nav:
+  - title: "Further Reading"
+
+tooling_nav:
+  - title: "Further Reading"
+    children:
+      - title: "Drill Bits"
+        url: "/tooling/drill_bits"
