@@ -3,9 +3,12 @@ title: "Rivets"
 permalink: /fasteners/rivets
 sidebar:
   nav: mechanical_sidebar
+toc: true
 ---
 
 Rivets join materials together by deforming as the mandrel is pulled through the rivet body. They are useful when you do not have access to both sides of the materials to be joined. The low-profile head creates a neat and orderly appearance.
+
+## Pop Rivets
 
 Standard rivets may be marketed as "blind" rivets, "pop" rivets, and "open-end" rivets.
 

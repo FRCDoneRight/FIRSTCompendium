@@ -3,6 +3,7 @@ title: "Gears"
 permalink: /motion/gears
 sidebar:
   nav: mechanical_sidebar
+toc: true
 ---
 
 See also: [Gearboxes]({{ '/motion/gearboxes' | relative_url }})
@@ -13,7 +14,7 @@ Gears are used to transmit power. By varying the ratio between two gears (in ter
 
 A ratio of 2:1 can be created through the use of any two gears in that ratio (40 tooth:20 tooth, 32 tooth: 16 tooth, etc). If the larger gear is the input gear, the output gear will spin about twice as fast, with roughly half as much torque. Small variences here are a result of lost power (inperfect efficiency) to friction and other forces. If the smaller gear is the input gear, the gears will create a 1:2 reduction and cause speed to be halved and torque to be doubled.
 
-#### Gearing Efficiency
+### Gearing Efficiency
 
 Each stage of gearing will result in some inefficiency in the power transmission.
 
@@ -32,7 +33,7 @@ US System gears are specified in diametral pitch (teeth per inch of diameter), a
 
 Metal gears are typically available in a DPs of 3 to 32, and pressure angles of 14.5 degrees & 20 degrees. Plastic and brass gears typically run with a DP of 16 to 64 and a pressure angle of 20 degrees. Typical COTS gears used in FRC, such as those sold by AndyMark and Vex, have a DP of 20 and a pressure angle of 14.5⁰.
 
-#### Definitions
+### Definitions
 
 The pitch diameter is the location where the teeth mate. This is NOT the same as the outside diameter of the gear.
 
@@ -42,7 +43,7 @@ The outside diameter (OD) of the gear is calculated as follows:
 
 Outer diameter = (Number of teeth + 2) / diameteral pitch
 
-#### Metric Gears
+### Metric Gears
 
 Metric Gears are specified by module, which is simply the pitch diameter/number of teeth. They all use a 20° pressure angle. The only common metric gears in FRC is used in some of the automotive window & throttle motors. Module 1.25 gearing is the most similar to the 20dp gearing while module 1.0 gearing is equivlent to a 25.4dp.
 
@@ -63,4 +64,5 @@ Worm gears are useful over bevel gears in some applications due to the very comp
 Worm gear efficiency is a function of the lead angle of the worm. Lead angles of 45⁰ provide the maximum efficiency.
 
 ## Ancillary Gearing
+
 There are other forms of gearing available including multi-angled herringbone gears, slanted helical gears and curved gearing such as hypoid and cycloid gearing. These are typically more expensive, more difficult to source, and challenging to design with.

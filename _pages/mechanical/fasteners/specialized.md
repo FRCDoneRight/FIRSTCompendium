@@ -3,6 +3,7 @@ title: "Specialized Fasteners"
 permalink: /fasteners/specialized
 sidebar:
   nav: mechanical_sidebar
+toc: true
 ---
 
 Though the more widely used fasteners are enough for many teams, it is useful to know about the specialized variants.

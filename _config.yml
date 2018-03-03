@@ -15,7 +15,7 @@ name                     : "Benjamin Ward"
 description              : "FIRST Done Right."
 url                      : "https://frcdoneright.github.io" # the base hostname & protocol for your site
 baseurl                  : "/FIRSTCompendium" # the subpath of your site, e.g. "/blog"
-repository               : "WardBenjamin/FIRSTCompendium" # GitHub username/repo-name
+repository               : "FRCDoneRight/FIRSTCompendium" # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
