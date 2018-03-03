@@ -4,6 +4,7 @@ permalink: /motion/motors
 sidebar:
   nav: mechanical_sidebar
 toc: true
+last_modified_at: 2018-03-03T15:10:36-05:00
 ---
 
 DC motors are an integral part of competition robotics, and proper motor selection is essential to successful robot design. FIRST competitions have limits on which motors may be used and how many (FRC Rule R29). Consult the game manual each year to insure the motors and specific part numbers are permitted.

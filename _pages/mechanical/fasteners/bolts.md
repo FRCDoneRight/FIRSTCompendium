@@ -4,6 +4,7 @@ permalink: /fasteners/bolts
 sidebar:
   nav: mechanical_sidebar
 toc: true
+last_modified_at: 2018-03-03T15:10:36-05:00
 ---
 
 Bolted fasteners (bolts) are available in a wide variety of head styles, thread pitches, diameters, and lengths. A quick walk down the hardware store aisle offers a huge variety of options.

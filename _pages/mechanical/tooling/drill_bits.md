@@ -4,6 +4,7 @@ permalink: /tooling/drill_bits
 sidebar:
   nav: mechanical_sidebar
 toc: true
+last_modified_at: 2018-03-03T15:10:36-05:00
 ---
 
 Drill bits are cutting tools used in a hand drill, drill press, or mill to create circular holes.

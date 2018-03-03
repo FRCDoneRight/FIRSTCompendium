@@ -4,6 +4,7 @@ permalink: /motion/bearings
 sidebar:
   nav: mechanical_sidebar
 toc: true
+last_modified_at: 2018-03-03T15:10:36-05:00
 ---
 
 Bearings and bushing are designed to constrain relative motion and reduce friction between rotating parts. There are a very wide variety of bearings available; those most commonly used in FRC designs are discussed below.

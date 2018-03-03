@@ -4,6 +4,7 @@ permalink: /fasteners/specialized
 sidebar:
   nav: mechanical_sidebar
 toc: true
+last_modified_at: 2018-03-03T15:10:36-05:00
 ---
 
 Though the more widely used fasteners are enough for many teams, it is useful to know about the specialized variants.

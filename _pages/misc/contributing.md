@@ -3,6 +3,7 @@ title: "Contributing"
 permalink: /misc/contributing
 sidebar:
   nav: misc_sidebar
+last_modified_at: 2018-03-03T15:10:36-05:00
 ---
 
 Having trouble understanding something? Found a typo in the content? Interested in adding information or helping to [clarify a section](https://github.com/FRCDoneRight/FIRSTCompendium/issues)? Then by all means [submit an issue](https://github.com/FRCDoneRight/FIRSTCompendium/issues/new) or [pull request](https://help.github.com/articles/using-pull-requests/). If this is your first pull request, it may be helpful to read up on the [GitHub Flow](https://guides.github.com/introduction/flow/) first.
