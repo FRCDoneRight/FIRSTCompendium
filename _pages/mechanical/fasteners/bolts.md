@@ -41,6 +41,7 @@ Screw Size | Major Diameter | Threads Per Inch | Minor Diameter | Drill Size (75
  3/8|0.375 |32 UNEF|0.3367|11/32|0.3438|X |0.397
 
 ## Metric Bolts
+
 Metric bolts are specified by the Outside Diameter (in mm) and the Distance between Threads (in mm). There are a number of different national standards for metric fasteners; which introduces sometimes considerable differences in what standard thread sizes are sold and used in a region. Some of the more common fastners are listed below.
 
 Standard fit and drill size following are marked for 75% thread engagement, for aluminum, brass, and plastics, and for a "standard fit" clearance hole. Sizes include both drill size and decimal equivalent.
