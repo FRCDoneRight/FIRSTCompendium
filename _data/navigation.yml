@@ -100,6 +100,8 @@ mechanical_sidebar:
         url: "/motion/gearboxes"
       - title: "Motors"
         url: "/motion/motors"
+      - title: "Power Transfer"
+        url: "/motion/power_transfer"
       - title: "Wheels"
         url: "/motion/wheels"
   - title: "Tooling"
@@ -154,6 +156,12 @@ motion_nav:
         url: "/motion/gears"
       - title: "Gearboxes"
         url: "/motion/gearboxes"
+      - title: "Motors"
+        url: "/motion/motors"
+      - title: "Power Transfer"
+        url: "/motion/power_transfer"
+      - title: "Wheels"
+        url: "/motion/wheels"
 
 pneumatics_nav:
   - title: "Further Reading"
