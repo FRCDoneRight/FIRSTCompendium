@@ -10,6 +10,10 @@ Having trouble understanding something? Found a typo in the content? Interested 
 
 The FIRST Compendium has been designed as an all-encompassing resource to help create and grow FIRST teams from all levels of play. Please keep this in mind when requesting features and/or submitting pull requests. Most anything is welcome, but if it's not something useful to more than one team it will not be accepted. When in doubt, please ask!
 
+## Content Additions
+
+If you aren't comfortable with the text format that FIRST Compendium uses, or don't know how to use Github, you can still contribute content! You simply need to create a Github account and open an issue at https://github.com/{{ site.repository }}/issues with a short description and a link to your content.
+
 ## Pull Requests
 
 When submitting a pull request:
